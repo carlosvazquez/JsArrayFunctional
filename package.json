@@ -1,0 +1,28 @@
+{
+  "name": "jsarrays",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosvazquez/JsArrayFunctional.git"
+  },
+  "keywords": [],
+  "author": "Carlos Vazquez <carlosvazquez@outlook.com> (https://www.shoperti.com/)",
+  "bugs": {
+    "url": "https://github.com/carlosvazquez/carlosvazquez/JsArrayFunctional/issues"
+  },
+  "homepage": "https://github.com/carlosvazquez/JsArrayFunctional#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.8.1"
+  }
+}
